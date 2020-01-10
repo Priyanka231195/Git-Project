@@ -6,4 +6,4 @@ login feature added
  line 2 added with new bug
 bug  for bug2
 
-chat feature is added to remote
+chat feature is added to remote.
