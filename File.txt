@@ -1,3 +1,8 @@
 bug fix
 
+
 login feature added
+
+ line 2 added with new bug
+bug  for bug2
+>>>>>>> bug2
